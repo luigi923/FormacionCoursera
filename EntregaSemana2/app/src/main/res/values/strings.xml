@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EntregaSemana2</string>
+    <string name="form_nombre">Nombre completo</string>
+    <string name="form_fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="form_telefono">Telefono</string>
+    <string name="form_email">Email</string>
+    <string name="form_descripcion">Descripcion contacto</string>
+    <string name="confirmar_datos">Confirmar Datos</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="editarDatos">Editar Datos</string>
+</resources>
